@@ -5,6 +5,16 @@ Author: Ahmed Nemreen
 GOSI Identity
 */
 
+@font-face {font-family: "HelveticaNeueLTArabic-Light"; 
+  src: url("//db.onlinewebfonts.com/t/0aafb9b674c2d4e614b8ea00d10cec51.eot"); 
+  src: url("//db.onlinewebfonts.com/t/0aafb9b674c2d4e614b8ea00d10cec51.eot?#iefix") 
+  format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0aafb9b674c2d4e614b8ea00d10cec51.woff2") 
+  format("woff2"), url("//db.onlinewebfonts.com/t/0aafb9b674c2d4e614b8ea00d10cec51.woff") 
+  format("woff"), url("//db.onlinewebfonts.com/t/0aafb9b674c2d4e614b8ea00d10cec51.ttf") 
+  format("truetype"), url("//db.onlinewebfonts.com/t/0aafb9b674c2d4e614b8ea00d10cec51.svg#HelveticaNeueLTArabic-Light") 
+  format("svg"); 
+} 
+
 @font-face {
     font-family: "DIN Next LT Arabic";
     src: url("../fonts/DINNextLTW23/DINNextLTArabic-Light.eot");
