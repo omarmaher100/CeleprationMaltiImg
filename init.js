@@ -28,7 +28,7 @@ function selectDesign(e){
         ctx.clearRect(0, 0, canvas.width, canvas.height);
         DrawOverlay(img);
         ctx.textBaseline = 'middle';
-        ctx.font = "bold 26px 'DIN Next LT Arabic'";
+             ctx.font = "bold 25pt HelveticaNeueLTArabic-Light ";
         ctx.fillStyle = $(e).attr("data-textColor");
         ctx.shadowColor = "rgba(0, 0, 0, 0)";
         ctx.shadowOffsetX = 1;
